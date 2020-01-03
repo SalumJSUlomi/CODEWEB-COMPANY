@@ -11,7 +11,6 @@
   800,
   800italic
 );
-
 body {
   color: #000;
   background: #f1f2f7;
@@ -351,6 +350,9 @@ a.logo span {
   position: absolute;
   right: 20%;
 }
+/* start home page */
+
+/* end home page */
 
 @keyframes drop {
   0% {
